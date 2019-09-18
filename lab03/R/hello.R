@@ -1,7 +1,7 @@
 
 
 
-#' Euclidean shit
+#' Euclidean 
 #'
 #' @param a number
 #' @param b number
