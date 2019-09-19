@@ -1,5 +1,4 @@
 context("euclidean")
-library(lab03)
 
 test_that("GDC is calculated correctly.", {
   expect_equal(euclidean(123612, 13892347912), 4)

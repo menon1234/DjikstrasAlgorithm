@@ -2,21 +2,24 @@
 % Please edit documentation in R/euclidean.R
 \name{euclidean}
 \alias{euclidean}
-\title{Euclidean}
+\title{calculate the greatest common divisor of two numbers}
 \usage{
 euclidean(a, b)
 }
 \arguments{
-\item{a}{number}
+\item{a}{a number}
 
-\item{b}{number}
+\item{b}{a number}
 }
 \value{
-return GCD
+the greatest common divisor of two numbers
 }
 \description{
-Euclidean
+calculate the greatest common divisor of two numbers
 }
 \examples{
-euclidean(10,100)
+euclidean(100,1000)
+}
+\seealso{
+\url{https://en.wikipedia.org/wiki/Euclidean_algrithm}
 }
