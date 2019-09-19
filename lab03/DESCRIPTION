@@ -1,6 +1,6 @@
 Package: lab03
 Type: Package
-Title: Euclidean Algorithm to find GCF of two numbers and djikstras algorith to find the shortest distance between two nodes.
+Title: Euclidean algorithm to find GCF of two numbers and dijkstras algorithm to find the shortest distance between two numbers
 Maintainer: Sreenand.S <nandu.neo@gmail.com> Fengjuan Chen <fengjuanchen5@gmail.com>
 Description: Euclidean algorithm can find the GCF of two numbers and dijsktra algothrim implements the function of calculating the shortest path weight from the given node to every other node in a graph.
 Version: 1.0
