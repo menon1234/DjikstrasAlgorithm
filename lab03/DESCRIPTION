@@ -1,14 +1,13 @@
 Package: lab03
 Type: Package
-Title: lab03
-Maintainer: Sreenand.S <nandu.neo@gmail.com>
-Description:Euclidean algorithm which prints the Highest GCF of two numbers attached with a wikigraph
+Title: Euclidean Algorithm to find GCF of two numbers and djikstras algorith to find the shortest distance between two nodes.
+Maintainer: Sreenand.S <nandu.neo@gmail.com> Fengjuan Chen <fengjuanchen5@gmail.com>
+Description: Euclidean algorithm can find the GCF of two numbers and dijsktra algothrim implements the function of calculating the shortest path weight from the given node to every other node in a graph.
 Version: 1.0
-Author: Sreenand.S [aut,cre]
+Author: Sreenand.S and Fengjuan Chen 
 RoxygenNote: 6.1.1
 License: GPL-3
 Depends: R(>= 2.10)
 Encoding: UTF-8
-Suggests: 
-    testthat
+Suggests: testthat
 LazyData: true
