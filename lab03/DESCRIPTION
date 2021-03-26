@@ -1,4 +1,4 @@
-Package: lab03
+Package: Shortest Path Using Djikstras and Euclidean
 Type: Package
 Title: Euclidean algorithm to find GCF of two numbers and dijkstras algorithm to find the shortest distance between two numbers
 Maintainer: Sreenand.S <nandu.neo@gmail.com> Fengjuan Chen <fengjuanchen5@gmail.com>
